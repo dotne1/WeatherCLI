@@ -65,6 +65,9 @@ OR
 
    python WeatherGUI.py
 
+   ```
+
+
 ## API Key
 
 1. **OpenWeatherMap API Key:**
