@@ -1,6 +1,6 @@
 # WeatherCLI
 
-A simple command-line tool for fetching and displaying weather information for any city.
+A simple command-line tool for fetching and displaying weather information for any city. Also includes a minimalistic GUI for user's with a preference.
 
 
 ## Table of Contents
