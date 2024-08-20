@@ -59,12 +59,11 @@ A simple command-line tool for fetching and displaying weather information for a
 
    python WeatherCLI.py <city_name>
 
-3. **OR for GUI Feature**
+3. **OR for GUI Feature:**
 
    ```bash
 
    python WeatherGUI.py
-
 
 ## API Key
 
