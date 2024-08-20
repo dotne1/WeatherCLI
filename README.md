@@ -59,7 +59,7 @@ A simple command-line tool for fetching and displaying weather information for a
 
    python WeatherCLI.py <city_name>
 
-3. **OR**
+3. **OR for GUI Feature**
 
    ```bash
 
