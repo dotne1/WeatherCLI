@@ -57,7 +57,13 @@ A simple command-line tool for fetching and displaying weather information for a
 
    ```bash
 
-   python weathercli.py <city_name>
+   python WeatherCLI.py <city_name>
+
+OR
+
+   ```bash
+
+   python WeatherGUI.py
 
 ## API Key
 
